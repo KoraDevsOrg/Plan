@@ -1,6 +1,6 @@
 # 🤝 Guía de Contribución - KoraDevs
 
-¡Gracias por donar tu talento a KoraDevs! Para mantener el orden entre los 22 desarrolladores, seguimos estas reglas:
+¡Gracias por donar tu talento a KoraDevs! Para mantener el orden entre los desarrolladores, seguimos estas reglas:
 
 ---
 
