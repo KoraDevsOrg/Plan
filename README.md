@@ -1,7 +1,28 @@
 # Plan
 Planeación del contenido y de apps
 
-Para gestionar a un equipo de 22 desarrolladores sin generar desorden ni cuellos de botella, la metodología de trabajo debe ser descentralizada: un repositorio por cada app, un líder por iniciativa y un flujo estandarizado de Pull Requests.
+# 💚 KoraDevs
+
+> Comunidad de desarrolladores donando conocimiento mediante software 100% libre, sin publicidad ni rastreadores, orientado a niños, microempresas y causas sociales.
+
+---
+
+## 🚀 ¿Cómo funciona nuestra comunidad?
+
+1. **💡 Proponer una App:** Ve a la pestaña **Issues** ➔ **New issue** ➔ Selecciona **🚀 Propuesta de Nueva Aplicación**.
+2. **📌 Tablero de Gestión:** El avance global se monitorea en la pestaña **Projects** en el proyecto **GestionApps**.
+3. **🛠️ Flujo de Trabajo:**
+   - Nadie sube cambios directos a la rama principal (`main`).
+   - Cada desarrollo se hace en una rama con el formato: `feature/nombre-tarea` o `fix/nombre-arreglo`.
+   - Se crea un **Pull Request (PR)** y requiere al menos 1 aprobación del equipo para fusionarse.
+
+---
+
+## 📜 Principios Clave
+- **Sin Publicidad:** Cero anuncios y cero monetización invasiva.
+- **Open Source:** Código abierto, público y colaborativo.
+- **Package ID Oficial para Apps:** `org.koradevs.[nombre_app]`
+
 
 1. Incorporación y Roles de los Miembros
  * Invitar a la organización:
