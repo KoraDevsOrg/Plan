@@ -1,9 +1,10 @@
 ---
-name: "🚀 Propuesta de Nueva Aplicación"
+name: "\U0001F680 Propuesta de Nueva Aplicación"
 about: Presenta una nueva iniciativa de software sin anuncios para la comunidad
 title: "[PROPUESTA] Nombre de la App"
-labels: ["propuesta", "evaluacion"]
-assignees: ""
+labels: ''
+assignees: ''
+
 ---
 
 ### 1. 📌 Resumen y Propósito Social
@@ -29,4 +30,4 @@ assignees: ""
 ### 4. 📋 Compromiso Open Source
 - [ ] La aplicación es 100% libre de anuncios, micropagos abusivos y rastreadores.
 - [ ] El código será totalmente público y documentado.
-- [ ] 
+- [ ]
